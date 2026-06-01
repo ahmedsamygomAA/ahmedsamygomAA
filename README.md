@@ -13,6 +13,9 @@ I am a Petroleum Engineering graduate and Software Engineering Master’s studen
 
 ## Technical Stack
 - Python
+- C
+- C#
+- HTML
 - pandas / NumPy
 - scikit-learn
 - Jupyter Notebook
