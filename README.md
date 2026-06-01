@@ -1,4 +1,4 @@
-# Hi, I’m Ahmed Samy Mohamed Gomaa
+# Hi, I’m Ahmed Gomaa
 
 I am a Petroleum Engineering graduate and Software Engineering Master’s student focused on AI for Energy, oil well digital twins, anomaly detection, and industrial data analytics.
 ## Focus Areas
